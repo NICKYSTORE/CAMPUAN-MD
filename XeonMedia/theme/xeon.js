@@ -1,0 +1,3 @@
+{
+	"name": "NESF_BOT"
+}
